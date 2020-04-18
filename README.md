@@ -1,2 +1,1 @@
-# Algorithms
-Algorithm Solutions
+Algorithm_Solution
